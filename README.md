@@ -26,24 +26,26 @@ This repository contains largely tickets and small scripts useful for project ma
 ## Features
 
 * Reports for project management
+* Status of infusion of best practices
 * Project management issues / tickets
 * Scripts to aid in management 
   
 ## Contents
 
-* [Quick Start](#quick-start)
-* [Changelog](#changelog)
-* [FAQ](#frequently-asked-questions-faq)
-* [Contributing Guide](#contributing)
-* [License](#license)
-* [Support](#support)
+- [Features](#features)
+- [Contents](#contents)
+- [Quick Start](#quick-start)
+- [Changelog](#changelog)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
 
 ## Quick Start
 
 Try the following actions:
 - See our issue tickets
-- View our standards-compliance statuses
-- View zenhub reports [DEPRECATED]
+- View our [leaderboard](https://github.com/NASA-AMMOS/slim-leaderboard/blob/main/examples/slim-unity-leaderboard.md) showing statuses of [SLIM best practices](https://nasa-ammos.github.io/slim/) infusion
 
 ## Changelog
 
